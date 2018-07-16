@@ -1,2 +1,2 @@
 Download everything and run the .sln.
-Build and debug
+Then build and debug
